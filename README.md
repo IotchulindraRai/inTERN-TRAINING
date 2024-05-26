@@ -1,7 +1,7 @@
 # Hangman Word Game
 
 A simple and interactive Hangman word game built with HTML, CSS, and JavaScript. Players try to guess the hidden word by suggesting letters within a limited number of guesses.
-learn brom this training class git and github with CI and CD![Screenshot 2024-05-26 215908](https://github.com/IotchulindraRai/inTERN-TRAINING/assets/87846923/588057a9-804e-4bbb-a5b9-69622ffd5661)
+learn from this training class  on git and github with CI and CD![Screenshot 2024-05-26 215908](https://github.com/IotchulindraRai/inTERN-TRAINING/assets/87846923/588057a9-804e-4bbb-a5b9-69622ffd5661)
 
 
 ## Demo
