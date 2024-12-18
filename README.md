@@ -21,8 +21,8 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    git clone https://github.com/IotchulindraRai/inTERN-TRAINING.git
    
-  
- # project structure
+   thank you
+ **project structure**
 
 hangman-word-game/
 ├── images/
